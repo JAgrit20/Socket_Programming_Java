@@ -15,7 +15,7 @@ Socket server;
 // int port=10000;
 int port=2000;
 
-DataInputStream dis;
+// DataInputStream dis;
 
 // PrintStream ps;
 
