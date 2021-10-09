@@ -12,7 +12,7 @@ public class SocketServer
 
 {
 
-// ServerSocket server;
+ServerSocket server;
 
 // Socket client;
 
