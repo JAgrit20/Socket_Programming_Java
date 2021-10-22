@@ -19,7 +19,7 @@ int port=2000;
 
 // PrintStream ps;
 
-String host="localhost";
+// String host="localhost";
 
 // System.out.println("Starting Client Application");
 
