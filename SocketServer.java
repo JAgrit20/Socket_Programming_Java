@@ -17,7 +17,7 @@ ServerSocket server;
 // Socket client;
 
 // int port=10000;
-   int port=1000;
+//    int port=1000;
 
 
 // DataInputStream dis;
@@ -50,7 +50,7 @@ ps=new PrintStream(client.getOutputStream());
 
 String s=dis.readLine();
 
-System.out.println("The client:"+s);
+// System.out.println("The client:"+s);
 DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");  
    LocalDateTime now = LocalDateTime.now();  
    ps.println(dtf.format(now)); 
