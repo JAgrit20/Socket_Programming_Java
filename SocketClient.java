@@ -23,7 +23,7 @@ String host="localhost";
 
 // System.out.println("Starting Client Application");
 
-System.out.println("Trying to open the connection");
+// System.out.println("Trying to open the connection");
 
 try
 
