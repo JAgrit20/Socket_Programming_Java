@@ -20,7 +20,7 @@ ServerSocket server;
 //    int port=1000;
 
 
-// DataInputStream dis;
+DataInputStream dis;
 
 PrintStream ps;
 
