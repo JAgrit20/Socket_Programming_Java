@@ -1,12 +1,12 @@
 // import java.net.*;
 
-// import java.io.*;
+import java.io.*;
 
-// public class SocketClient
+public class SocketClient
 
 {
 
-// public static void main(String args[])
+public static void main(String args[])
 
 {
 
