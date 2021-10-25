@@ -29,7 +29,7 @@ try
 
 {
 
-// server=new Socket(host,port);
+server=new Socket(host,port);
 
 // System.out.println("Successfully opened ServerSocket");
 
