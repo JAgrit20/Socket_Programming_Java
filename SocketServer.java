@@ -2,7 +2,7 @@ import java.net.*;
 
 
 
-// public class SocketServer
+public class SocketServer
 
 {
 
