@@ -2,7 +2,7 @@ import java.net.*;
 
 
 
-// public class SocketServer
+public class SocketServer
 
 {
 
@@ -14,7 +14,7 @@ ServerSocket server;
 
 // Socket client;
 
-// int port=10000;
+int port=10000;
 //    int port=1000;
 
 
